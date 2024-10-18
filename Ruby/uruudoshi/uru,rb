@@ -1,0 +1,9 @@
+def leap_years
+  (0..2020).each do |year|
+    next if year % 4 != 0
+    next if year % 100 == 0 && year % 400 != 0
+    puts year
+  end
+end
+
+leap_years
