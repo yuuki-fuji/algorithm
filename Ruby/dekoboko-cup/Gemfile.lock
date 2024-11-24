@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pqueue (2.1.0)
+    rb_heap (1.1.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  pqueue
+  rb_heap
+
+BUNDLED WITH
+   2.5.11
