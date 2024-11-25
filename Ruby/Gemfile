@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+gem "rspec"  #テスト用
+gem "pry"    #デバック用
+gem "rubocop" #コード静的解析
+gem "faker" #サンプルデータ生成
